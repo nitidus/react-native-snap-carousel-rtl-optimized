@@ -64,7 +64,7 @@ Swiper component for React Native featuring **previews**, **multiple layouts**, 
 ## Usage
 
 ```bash
-$ npm install --save react-native-snap-carousel
+$ npm install --save react-native-snap-carousel-rtl-optimized
 ```
 
 ```javascript
