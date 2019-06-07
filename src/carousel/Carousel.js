@@ -422,7 +422,7 @@ export default class Carousel extends Component {
             return 0;
         }
 
-        return this._needsRTLAdaptations() ? itemsLength - index - 1 : index;
+        return /*this._needsRTLAdaptations() ? itemsLength - index - 1 : */index;
     }
 
     _getDataIndex (index) {
